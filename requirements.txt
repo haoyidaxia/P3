@@ -1,0 +1,8 @@
+streamlit>=1.50.0
+joblib>=1.5.2
+numpy>=2.2.5
+pandas>=2.3.2
+shap>=0.47.2
+matplotlib>=3.10.6
+catboost>=1.2.8
+scikit-learn>=1.7.1
